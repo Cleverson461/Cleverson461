@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil do Cleverson Nascimento 😁
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
  <div>
    <a href="https://github.com/Cleverson461">
