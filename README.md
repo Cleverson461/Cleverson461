@@ -18,9 +18,113 @@
 
 ## Sobre
 
-Curso Tecnólogo em TI pelo IDEP (2024–2026), em transição de carreira para Análise de Dados. Meta: posição júnior até dezembro de 2026, com foco em cooperativas de crédito, setor público e agronegócio em Rondônia (Sicoob, Sicredi, TCE-RO, EMBRAPA).
+# Olá! Eu sou Kleverson Nascimento 👋
 
-Construo projetos ponta a ponta com bases públicas brasileiras — modelagem em SQL Server, ETL e dashboards em Power BI — usando dados do TSE, IBGE, DATASUS e Banco Central.
+## 📊 Analista de Dados em formação
+
+Estou construindo minha carreira na área de **Análise de Dados**, desenvolvendo projetos práticos para transformar dados em informações úteis para tomada de decisão.
+
+Atualmente estudo e desenvolvo projetos utilizando:
+
+* 📊 Excel
+* 🗄️ SQL
+* 📈 Power BI
+* 🔄 Power Query
+* 📐 DAX
+* 🧩 Modelagem de Dados
+* 🔎 Análise Exploratória de Dados
+
+---
+
+## 🚀 O que estou construindo
+
+Meu portfólio reúne projetos práticos envolvendo diferentes cenários de negócio:
+
+* 🛒 E-commerce
+* 🚚 Logística
+* 🌾 Agronegócio
+* 🏦 Mercado financeiro
+* 🏛️ Dados públicos
+* 🏥 Saúde
+* 🗳️ Dados eleitorais
+* 📊 Business Intelligence
+
+Em cada projeto procuro demonstrar o processo completo:
+
+**Problema de negócio → Dados → Tratamento → Análise → Visualização → Insights**
+
+---
+
+## 🛠️ Tecnologias
+
+| Tecnologia  | Aplicação                            |
+| ----------- | ------------------------------------ |
+| Excel       | Tratamento, análise e dashboards     |
+| SQL         | Consulta e análise de dados          |
+| Power Query | ETL e transformação                  |
+| Power BI    | Visualização e Business Intelligence |
+| DAX         | Criação de métricas e indicadores    |
+| Git/GitHub  | Versionamento e documentação         |
+
+---
+
+## 📂 Projetos
+
+### 🛒 E-commerce Analytics
+
+Análise de vendas, clientes, produtos e desempenho comercial.
+
+**Excel + SQL + Power BI**
+
+### 🚚 Agro & Logística Analytics
+
+Análise de produção, transporte, custos e operações logísticas.
+
+**SQL + Power BI**
+
+### 🏦 Banking Analytics
+
+Análise simulada de clientes, produtos financeiros e transações.
+
+**SQL + Power BI**
+
+### 🏛️ Rondônia em Dados
+
+Análise de indicadores públicos e socioeconômicos de Rondônia.
+
+**SQL + Power BI**
+
+### 🏥 Health Analytics
+
+Análise de dados e indicadores relacionados à saúde pública.
+
+**SQL + Power BI**
+
+### 🗳️ Eleições Brasil
+
+Análise exploratória de dados eleitorais públicos.
+
+**SQL + Power BI**
+
+### ⭐ Business Intelligence
+
+Projeto completo simulando um ambiente corporativo de Business Intelligence.
+
+**Excel + SQL + Power BI**
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco minha primeira oportunidade como **Analista de Dados Júnior**, aplicando Excel, SQL, Power BI e análise de dados para transformar informações em insights que apoiem decisões de negócio.
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/cleverson-nascimento/
+
+📧 E-mail profissional: cleverson461@gmail.com
 
 ## Stack atual
 
