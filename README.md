@@ -18,7 +18,7 @@
 
 ## Sobre
 
-# Olá! Eu sou Kleverson Nascimento 👋
+# Olá! Eu sou Cleverson Nascimento 👋
 
 ## 📊 Analista de Dados em formação
 
